@@ -26,7 +26,7 @@ am considerat valorile maxime ale pixelilor 224, ceea ce a condus la scorurile u
   - ***Accuracy*** : 0.723
   - ***F1_score*** : 0.4068522483940043
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![]()
 
 
 

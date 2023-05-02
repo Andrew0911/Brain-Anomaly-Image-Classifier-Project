@@ -1,20 +1,32 @@
 # Brain Anomaly Image Classification
 
-În cadrul proiectului, scopul final a fost clasificarea unor imagini ce reprezintă scanări ale
+  În cadrul proiectului, scopul final a fost clasificarea unor imagini ce reprezintă scanări ale
 creierului uman în două clase (numerotate 0 și 1), pentru a identifica dacă pacientul prezintă o
 anomalie sau nu.
 
-## I. Setul de date :
+## Modele utilizate :
 
-- ***imagini_train*** - reprezintă imaginile din setul de antrenare, primele 15000 de imagini din directorul data
+  - Modelele pe care le-am abordat pentru realizarea acestui proiect au fost Multinomial Naïve-
+Bayes (MultinomialNB) și Rețele Neuronale Convoluționale (CNN).
 
-- ***train_labels*** – reprezintă clasele fiecărei imagini din setul de antrenare(0 - dacă pacientul nu prezintă anomalie, 1 în caz contrar)
+## I. Multinomial Naïve-Bayes
 
-- ***imagini_validation*** - reprezintă imaginile din setul de validare, următoarele 2000 de imagini din directorul data
+  - Modelul Multinomial Naïve-Bayes se bazează pe teoria probabilităților și se foloseste de o
+distribuție multinomială pentru a calcula probabilitatea ca o imagine să aparțină unei anumite
+clase.
 
-- ***validation_labels*** - reprezintă clasele fiecarei imagini din setul de validare (0 - dacă pacientul nu prezintă anomalie, 1 în caz contrar)
+  - Modelul presupune că fiecare imagine este independentă și că toate imaginile sunt la fel de
+relevante, ceea ce nu va conduce la rezultate spectaculoase de acuratețe, de aici și numele "naiv".
 
-- ***imagini_test*** - reprezintă imaginile din setul de testare, ultimele 5149 de imagini din directorul data
+### Descrierea modelului
+
+  Pentru a optimiza modelul am folosit o segmentare a datelor în 4 intervale, în cadrul cărora
+am considerat valorile maxime ale pixelilor 224, ceea ce a condus la scorurile următoare :
+
+  - ***Accuracy*** : 0.723
+  - ***F1_score*** : 0.4068522483940043
+
+!()
 
 
 

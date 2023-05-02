@@ -6,6 +6,6 @@ anomalie sau nu.
 
 ## Setul de date :
 
-** imagini_train ** - reprezintă imaginile din setul de antrenare, primele 15000 de imagini din
+**imagini_train** - reprezintă imaginile din setul de antrenare, primele 15000 de imagini din
 directorul data
 

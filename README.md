@@ -27,5 +27,5 @@ am considerat valorile maxime ale pixelilor 224, ceea ce a condus la scorurile u
   - ***F1_score*** : 0.4068522483940043
 
 
-<img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic1.png" height = 100px width = 150px>
+<img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic1.png" height = 500px width = 600px>
 

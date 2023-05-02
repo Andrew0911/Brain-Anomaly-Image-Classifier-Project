@@ -28,8 +28,8 @@ am considerat valorile maxime ale pixelilor 224, ceea ce a condus la scorurile u
 
 <div style="text-align:center;">
   
-  <img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic1.png" height = 200px width = 300px>
-  <img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic2.png" height = 200px width = 300px>
+  <img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic1.png" height = 250px width = 400px>
+  <img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic2.png" height = 250px width = 400px>
   
 </div>
 
@@ -55,8 +55,8 @@ am considerat valorile maxime ale pixelilor 224, ceea ce a condus la scorurile u
 
 <div style="text-align:center;">
   
-  <img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic3.png" height = 200px width = 300px>
-  <img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic4.png" height = 200px width = 300px>
+  <img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic3.png" height = 250px width = 400px>
+  <img src = "https://github.com/Andrew0911/Brain-Anomaly-Image-Classifier-Project/blob/main/Graphs/Grafic4.png" height = 250px width = 400px>
   
 </div>
 
